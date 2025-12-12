@@ -2,14 +2,14 @@
 Food is one of the most important pieces of everyone's lives, since it's how we stay alive. A study was done with 1,373 respondents to test how they would rank each given country's cuisine. With many other factors coming into play such as gender, age, household income, knowledge on cuisine, etc., this gave a fair read of how a majority of people feel about certain cuisines.
 ## Who's The Best?
 
-![Mean Rating of Cuisines](image-1.png)
+![Mean Ratings](image.png)
 
 The bar chart above provides the approximate mean rating for each country, with Italy having the highest mean rating of 4.37 out of 5 and Nigeria having the lowest mean rating of 2.85 of 5. As someone who is Italian (and loves food), this was not a surprising discovery since Italian food is a very popular cuisine. 
 
 ## How Well Do You Know Your Foods?
 As I previously stated, many factors were incorporated into this study. A big one was the question asking "Generally speaking, how would you rate your level of knowledge of cuisines from different parts of the world?"
 
-![Respondent Level of Knowledge](image.png)
+![Respondents Knowledge](image-1.png)
 Most respondents claim to have an intermeidate level of knowledge, but a mear 2.0% of respondents believe they are "food experts." I decided to put this to the test and raise the important question: "Does claiming to be an expert in different cuisines mean that you have a popular opinion?"
 
 From calculating what the mean of the highest (Italy) and lowest (Nigeria) rated cuisines were from just the "experts" alone, these were the results:
