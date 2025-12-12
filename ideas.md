@@ -7,8 +7,7 @@
 - Music
 ## Data Sets
 - https://github.com/fivethirtyeight/data/tree/master/food-world-cup --> Food
-- https://github.com/fivethirtyeight/data/tree/master/bob-ross   
---> Art
+- https://github.com/fivethirtyeight/data/tree/master/bob-ross --> Art
 ## Questions
 ### For Food:
 1. How does cuisine differ from each culture?
