@@ -4,7 +4,7 @@ Food is one of the most important pieces of everyone's lives, since it's how we 
 
 ![Mean Ratings](image.png)
 
-The bar chart above provides the approximate mean rating for each country, with Italy having the highest mean rating of 4.37 out of 5 and Nigeria having the lowest mean rating of 2.85 of 5. As someone who is Italian (and loves food), this was not a surprising discovery since Italian food is a very popular cuisine. 
+The bar chart above provides the approximate mean rating for each country, with Italy having the highest mean rating of 4.37 out of 5 and Nigeria having the lowest mean rating of 2.85 out of 5. As someone who is Italian (and loves food), this was not a surprising discovery since Italian food is a very popular cuisine. 
 
 ## How Well Do You Know Your Foods?
 As I previously stated, many factors were incorporated into this study. A big one was the question asking "Generally speaking, how would you rate your level of knowledge of cuisines from different parts of the world?"
