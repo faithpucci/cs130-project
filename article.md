@@ -22,7 +22,7 @@ As you can see, these mean ratings were lower- therefore, different- than the me
 ## How Does Age Effect Results?
 ![Age Ranges](image-2.png)
 
-Compared to other statistics, the amount of respondents in each age group were pretty evenly spread out. Nevertheless, the highest percentages of respondents to an age range were those betwen the ages 45-60 and the lowest was between the ages of 18-29. 
+Compared to other statistics, the amount of respondents in each age group were pretty evenly spread out. Nevertheless, the highest percentages of respondents to an age range were those between the ages 45-60 and the lowest was between the ages of 18-29. 
 
 Sometimes, age is an important factor because those who are older are more likely to have more years of opportunities to try different cuisines. Just like I did with the experts, I also calculated the mean for the highest and lowest rated cuisines only using these two groups. For the age range of 45-60:
 
