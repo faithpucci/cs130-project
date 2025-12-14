@@ -10,7 +10,7 @@ The bar chart above provides the approximate mean rating for each country, with 
 As I previously stated, many factors were incorporated into this study. A big one was the question asking "Generally speaking, how would you rate your level of knowledge of cuisines from different parts of the world?"
 
 ![Respondents Knowledge](image-1.png)
-Most respondents claim to have an intermeidate level of knowledge, but a mear 2.0% of respondents believe they are "food experts." I decided to put this to the test and raise the important question: "Does claiming to be an expert in different cuisines mean that you have a popular opinion?"
+Most respondents claim to have an intermediate level of knowledge, but a mear 2.0% of respondents believe they are "food experts." I decided to put this to the test and raise the important question: "Does claiming to be an expert in different cuisines mean that you have a popular opinion?"
 
 From calculating what the mean of the highest (Italy) and lowest (Nigeria) rated cuisines were from just the "experts" alone, these were the results:
 
